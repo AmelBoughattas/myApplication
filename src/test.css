@@ -1,0 +1,2 @@
+ /*   for  display list movie          <h1>liste movies</h1>
+           {props.movies.map(el=>{ return(<CardMovie contenu={el}/>) })}  */
